@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 차정현입니다!
+### 🙇 스프링부트를 이용한 백엔드 개발에 열정을 가지고, 항상 새로운 기술을 배우는 것을 즐기는 신입 개발자 차정현입니다.!
 
 <!-- Body -->
 
